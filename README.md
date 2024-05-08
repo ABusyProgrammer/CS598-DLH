@@ -10,7 +10,8 @@
 2. [dl4h_team_27.py](https://github.com/ABusyProgrammer/CS598-DLH/blob/main/dl4h_team_27.py) contains the Python pure-code verson of the above notebook. Same thing.
 
 ## Notes
-1. See the formal report here: https://colab.research.google.com/drive/1bmM1wJxqJMKpM7Ebie5b2C6LmB0BAMuZ#scrollTo=vo-VAhKtwMuV . The entire reproduced code, findings, results and discussions can be found there.
-2. The code here is an alternate way of running my implementation. A lot of the code is currently re-used from the paper's code itself, however, re-writes have taken place to optimize it where possible.
-3. The dataset is directly imported as a Python package; therefore, it does not need to be uploaded here.
-4. The video is linked above too for convenience.
+1. See the formal report here: https://colab.research.google.com/drive/14ucq_3wQ5zHUL9b5SyU_06gfa1724bnd . The entire reproduced code, findings, results and discussions can be found there. This is the exact same report as the Jupyter notebook in this GitHub repo.
+  1. Note that you will not be able to run this project on Google Collab unless you upgrade to a more powerful instance; I used AWS SageMaker notebook to run this. The Google Collab is just shared as a formality, but it won't work (expect an out-of-memory error at training stage).
+3. The code here is an alternate way of running my implementation. A lot of the code is currently re-used from the paper's code itself, however, re-writes have taken place to optimize it where possible.
+4. The dataset is directly imported as a Python package; therefore, it does not need to be uploaded here.
+5. The video is linked above too for convenience.
