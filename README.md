@@ -8,6 +8,7 @@
 ## Draft Rough Submission
 1. [DL4H_Team_27.ipynb](https://github.com/ABusyProgrammer/CS598-DLH/blob/main/DLH4_Team_27.ipynb) contains the Jupyter Google Collab notebook with my draft.
 2. [dl4h_team_27.py](https://github.com/ABusyProgrammer/CS598-DLH/blob/main/dl4h_team_27.py) contains the Python pure-code verson of the above notebook. Same thing.
+3. [PDF Report](https://github.com/ABusyProgrammer/CS598-DLH/blob/main/DLH_Team_27.pdf) contains the same Python notebook but in PDF format (submitted to Gradescope). It includes the oputputs from the training. as well.
 
 ## Notes
 1. See the formal report here: https://colab.research.google.com/drive/14ucq_3wQ5zHUL9b5SyU_06gfa1724bnd . The entire reproduced code, findings, results and discussions can be found there. This is the exact same report as the Jupyter notebook in this GitHub repo.
